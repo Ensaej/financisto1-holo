@@ -71,7 +71,7 @@
 	</style>
 	<style name="PlusButton">
 		<item name="android:background">@drawable/btn_circle</item>
-		<item name="android:src">@drawable/ic_btn_round_plus</item>
+		<item name="android:src">@drawable/account_type_asset</item>
 	</style>
 	<style name="MoreButton">
 		<item name="android:background">@drawable/btn_circle</item>
